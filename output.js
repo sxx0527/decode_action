@@ -1,4 +1,4 @@
-//Mon Jan 06 2025 08:13:44 GMT+0000 (Coordinated Universal Time)
+//Mon Jan 06 2025 08:17:42 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const _0x242fed = new _0x4fe6ea("电信抢购"),
